@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hi there 👋, my name is Kaito
 #### I am a Full-Stack Developer
 ![I am a Full-Stack Developer](https://github.com/quanlam123m/quanlam123m/blob/main/full_stack_banner-min.jpg)
